@@ -11,3 +11,6 @@ Topic: Small Object Detection and Segmentation
 
 ### Dataset: SODA-D
 *Small Object Detection dAtaset - Driving*
+
+### Technology Used
+* AWS Amazon Elastic Compute Cloud (EC2) cloud virtual severs
