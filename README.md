@@ -13,4 +13,4 @@ Topic: Small Object Detection and Segmentation
 *Small Object Detection dAtaset - Driving*
 
 ### Technology Used
-* AWS Amazon Elastic Compute Cloud (EC2) cloud virtual severs
+* AWS Amazon Elastic Compute Cloud (EC2) - cloud virtual servers
